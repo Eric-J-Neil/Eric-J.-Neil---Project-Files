@@ -9,7 +9,7 @@ The "RootUptakePDF" file contains the root water uptake functions.
 
 # Inquiries
 For further information about the PRIME model, please contact:
-Eric Neil
+  Eric Neil
 Department of Soil Science
 University of Saskatchewan
 eric.neil@usask.ca
