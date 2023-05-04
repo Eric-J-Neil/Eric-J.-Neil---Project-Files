@@ -7,6 +7,10 @@ The "PRIME-Model" file contains the main program.
 
 The "RootUptakePDF" file contains the root water uptake functions.
 
+The "PRIME input data - July 31" 
+and 
+"PRIME input data - August 22"
+
 # Inquiries
 For further information about the PRIME model, please contact:
 
