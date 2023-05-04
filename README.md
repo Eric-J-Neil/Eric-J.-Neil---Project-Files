@@ -4,6 +4,7 @@ for root water uptake with site physical data in a process-based linear mixing f
 
 # Program Files
 The "PRIME-Model" file contains the main program.
+
 The "RootUptakePDF" file contains the root water uptake functions, which is called by the main program.
 
 # Inquiries
