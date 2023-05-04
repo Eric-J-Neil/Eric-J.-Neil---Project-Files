@@ -1,6 +1,6 @@
 # PRIME Model - 'Physically-Based Root Water Uptake Isotope Mixing Estimation'
 The PRIME model combines a continuous and parametric probability density function 
-for root water uptake with site physical data in a process-based linear mixing framework
+for root water uptake with site physical data in a process-based linear mixing framework, written in MatLab language.
 
 # Program Files
 The "PRIME-Model" file contains the main program written in MatLab script.
