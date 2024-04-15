@@ -13,6 +13,7 @@ from Nisbet Provincial Forest, Saskatchewan, Canada from August 13, 22, 29, and 
 
 # Publications
 Th PRIME model and "PRIME input data" was used in the following publication:
+
 Neil, E.J., Fu, H., & Si, B. (2023). A process-based water stable isotope mixing model for plant water sourcing. Ecohydrology, e2611. https://doi.org/10.1002/eco.2611
 
 # Inquiries
