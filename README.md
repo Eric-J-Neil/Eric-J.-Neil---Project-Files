@@ -11,6 +11,10 @@ The "PRIME input data" files contain organized sample data from the original dat
 corrected data (xylem water compositions were corrected following cryogenic vacuum distillation)
 from Nisbet Provincial Forest, Saskatchewan, Canada from August 13, 22, 29, and September 4, 2019.
 
+# Publications
+Th PRIME model and "PRIME input data" was used in the following publication:
+Neil, E.J., Fu, H., & Si, B. (2023). A process-based water stable isotope mixing model for plant water sourcing. Ecohydrology, e2611. https://doi.org/10.1002/eco.2611
+
 # Inquiries
 For further information about the PRIME model, please contact:
 
